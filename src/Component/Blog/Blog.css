@@ -1,0 +1,7 @@
+.bloging{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.bloging{
+    border: 2px solid black;
+}

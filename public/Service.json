@@ -1,0 +1,50 @@
+[
+  {
+    "_id": 21,
+    "name": "Biology",
+    "duration": "Life Time",
+    "price": 100,
+    "img": "https://i.ibb.co/9967Ps2/71-JPAI-gbg-L.jpg",
+    "Location": "Uttara"
+  },
+  {
+    "_id": 22,
+    "name": "Chemistry",
+    "duration": "Life Time",
+    "img": "https://i.ibb.co/gZwjmGR/download.jpg",
+    "price": 500,
+    "Location": "Uttara"
+  },
+  {
+    "_id": 23,
+    "name": "Math-1",
+    "duration": "Life Time",
+    "img": "https://i.ibb.co/5YZ4JD0/math-book-blue-covers-word-260nw-229009651.jpg",
+    "price": 300,
+    "Location": "Uttara"
+  },
+  {
+    "_id": 24,
+    "name": "Physics",
+    "duration": "Life Time",
+    "img": "https://i.ibb.co/BsYMMMP/nootan-physics-xii-book-500x500.png",
+    "price": 400,
+    "Location": "Uttara"
+  },
+  {
+    "_id": 25,
+    "name": "ICT ",
+    "duration": "1 Month",
+    "img": "https://i.ibb.co/dJppMHj/    ict-information-communication-technology-concept-260nw-1471785641.jpg",
+    "price": 900,
+    "Location": "Uttara"
+  },
+  {
+    "_id": 26,
+    "name": "Islam ",
+    "duration": "Life Time",
+    "img": "https://i.ibb.co/pPV4jzf/2e3f00e2d2a4-32.png",
+    "price": 5000,
+    "Location": "Uttara"
+  }
+]

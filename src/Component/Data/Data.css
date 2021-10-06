@@ -1,0 +1,13 @@
+.image img{
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+}
+.services{
+    border: 1px solid black;
+    margin: 5px;
+ 
+}
+.btn{
+    border-radius: 10px;
+}
